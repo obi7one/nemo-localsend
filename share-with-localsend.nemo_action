@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Share with LocalSend
+Comment=Send selected files or folders via LocalSend
+Exec=~/.local/bin/localsend-nemo.sh %F
+Icon-Name=~/.local/share/icons/localsend.png
+Selection=Any
+Extensions=any;
+Quote=double
